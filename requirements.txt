@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+pytesseract
+Pillow
+beautifulsoup4
+requests
+rdflib
+python-docx
+matplotlib 
+plotly 
+altair
+tensorflow

@@ -1,0 +1,42 @@
+venv
+/# Ignore all .gitignore files
+*.gitignore
+
+# Ignore all .env files
+*.env
+
+# Ignore all .vscode files
+.vscode/
+
+# Ignore all .idea files
+.idea/
+
+# Ignore all .DS_Store files
+.DS_Store
+
+# Byte-compiled Python files
+*.py[cod]
+
+# Python 3.8+ byte-compiled files
+__pycache__/
+
+# Log files
+*.log
+
+# Database files
+*.db
+
+# Virtual environment directory
+venv/
+
+# Ignore all __init__.py files
+__init__.py
+
+# Ignore all .pytest_cache files
+.pytest_cache
+
+# Ignore all .ipynb_checkpoints files
+.ipynb_checkpoints
+
+# Ignore all .egg-info files
+*.egg-info
