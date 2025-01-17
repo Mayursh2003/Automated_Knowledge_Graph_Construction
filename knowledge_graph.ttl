@@ -1,0 +1,10 @@
+@prefix ex: <http://example.org/> .
+
+ex:London a ex:Entity ;
+    ex:country "UK" ;
+    ex:population "9 million" .
+
+ex:Paris a ex:Entity ;
+    ex:country "France" ;
+    ex:population "2.1 million" .
+
